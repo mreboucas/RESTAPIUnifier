@@ -7,6 +7,10 @@ License
 -------
 Currently covered by GPLv2. See LICENSE file (https://github.com/neomatrix369/RESTAPIUnifier/blob/master/LICENSE) in root and other directories.
 
+Architecture - Generic View
+--------------------------
+![Compatibility Badge](http://img202.imageshack.us/img202/886/11w7.png)
+
 Java 8 Compatibility
 --------------------
 <b>[Find out how you can also use this logo with your F/OSS projects](https://java.net/projects/adoptopenjdk/pages/TestingJava8)</b>
